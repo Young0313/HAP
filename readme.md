@@ -15,9 +15,9 @@ Major detail information is provided in comment.
 https://github.com/vlivashkin/community-graphs
 
 ## Acknowledgement
-Thanks for developer's hard work on cdlib[1] library, which makes community detection implementation highly accessible.
+Thanks for developer's hard work on cdlib[1] library, which makes community detection implementation highly accessible.\\
 Special thanks to Ivashkin and Chebotarev[2] for collecting graph with non-overlapping communities.
->[1] G. Rossetti, L. Milli, R. Cazabet. **CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks.** Applied Network Science Journal. 2019. [DOI:10.1007/s41109-019-0165-9](https://github.com/GiulioRossetti/cdlib/blob/master)
+>[1] G. Rossetti, L. Milli, R. Cazabet. **CDlib: a Python Library to Extract, Compare and Evaluate Communities from Complex Networks.** Applied Network Science Journal. 2019. [DOI:10.1007/s41109-019-0165-9](https://github.com/GiulioRossetti/cdlib/blob/master)\\
 >[2] Ivashkin V, Chebotarev P. Do logarithmic proximity measures outperform plain ones in graph clustering?[C]//International Conference on Network Analysis. Springer, Cham, 2016: 87-105.
 
 ## Citation
